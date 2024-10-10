@@ -24,7 +24,7 @@ This is a simple **WebSocket-based group chat application** built using Spring B
 
 1. Clone this repository:
     ```bash
-    git clone <https://github.com/TBanda27/chat-app-.git>
+    git clone https://github.com/TBanda27/chat-app-.git
     ```
 
 2. Navigate to the project directory:
